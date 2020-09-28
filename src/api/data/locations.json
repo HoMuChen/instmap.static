@@ -871,7 +871,7 @@
                 "id": "216405249",
                 "name": "新北市歡樂耶誕城",
                 "mediaCount": "88131",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/e570752e-22d4-537f-817c-64ec23167be3.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/b6e2f600-ca44-5c24-9049-1bd7d8f25ad4.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -967,7 +967,7 @@
                 "id": "213061122",
                 "name": "Regent Taipei 晶華酒店",
                 "mediaCount": "83349",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/9884a812-3a5c-53fa-ae60-8d27fc8ceaff.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/e5c6d5ad-a3d4-5881-8dd0-3b9aaffc50bf.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -990,22 +990,6 @@
                 "coordinates": [
                     120.322072506,
                     22.639679549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "249296857",
-                "name": "Changhua",
-                "mediaCount": "80765",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/d8f5d333-d70e-59dc-b56b-03f4ff3f6c71.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.543,
-                    24.08
                 ]
             }
         },
@@ -1127,7 +1111,7 @@
                 "id": "223218493",
                 "name": "台北士林夜市 Taipei Shilin Night Market",
                 "mediaCount": "75091",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/6b39076d-7344-531b-9ddc-f70a1afaca42.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/6c0b4555-44f7-582b-b064-6c12c4213158.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1156,26 +1140,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "2699324",
-                "name": "西門星聚點",
-                "mediaCount": "74149",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/62121c45-2e0c-5f32-8b7d-3f1507f1bf9e.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.505381357,
-                    25.0430977093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "id": "215686951",
                 "name": "新光三越 台北信義新天地",
                 "mediaCount": "73523",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/7a685815-cb77-5287-a31e-3b6d50e32969.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/471cc27a-4f7f-50c1-bc60-424639db71dd.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1191,7 +1159,7 @@
                 "id": "60774602",
                 "name": "法鼓山農禪寺",
                 "mediaCount": "73457",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/ee1cd220-dcb3-5876-93a2-27c21a17d894.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/17487ee4-7a9c-58e2-9048-6f2e0e039bd6.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1255,7 +1223,7 @@
                 "id": "484706",
                 "name": "台北當代藝術館 MOCA Taipei",
                 "mediaCount": "72565",
-                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/c97db98d-d455-5ad0-9ad6-d11e25fbd783.jpg"
+                "imageUrl": "https://storage.googleapis.com/instmap.tw/images/87767632-ba88-50bd-8f87-399c66971567.jpg"
             },
             "geometry": {
                 "type": "Point",
