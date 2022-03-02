@@ -42,7 +42,7 @@ class MediaModal extends Component {
                   <img
                     alt='Not Found'
                     style={{ top: '50%', width: '100%', position: 'relative', transform: 'translateY(-50%)' }}
-                    src={`https://storage.googleapis.com/instmap.tw/images/${media.id}.jpg`}
+                    src={`https://storage.googleapis.com/homuchen.com/ig/${media.id}.jpg`}
                   />
                   </a>
                 </GridListTile>
